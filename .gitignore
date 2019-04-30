@@ -3,6 +3,7 @@
 venv3/
 *.conf
 *.db
+*.swp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
